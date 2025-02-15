@@ -15,11 +15,11 @@ The system **dynamically adjusts schedules** when employees update their prefere
 ✅ **User Authentication** (Sign up & Log in)  
 ✅ **Set Availability** (User should be able to set:)  
    - **Preferred shifts** (Morning / Afternoon / Night) for each day of the week  
-   - **Max working hours per week they'll work** (Must be within a system-defined minimum and maximum limit)  
-   - **Days off** (Specify which days they won't work, an array with days will work)
+   - **Max working hours per week they want to work** (Must be within a system-defined minimum and maximum limit)  
+   - **Days off** (Specify which days they won't work)
 
 ✅ **View Assigned Shifts** (Updated dynamically based on availability & system constraints)  
-✅ **Update Availability Anytime** (Triggers recalculation of shift schedules)  
+✅ **Update Availability Anytime** (Triggers recalculation of shift schedules, if it is affected by any change made by somebody else)  
 ✅ **Receive Notification if Preferences Cannot Be Fully Met** (Showing a simple text will also work)  
 
 ### 👑 **Admin Portal**  (Simple 1-2 page dashboard)
