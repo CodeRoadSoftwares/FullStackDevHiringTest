@@ -23,6 +23,7 @@ The system **dynamically adjusts schedules** when employees update their prefere
 ✅ **Receive Notification if Preferences Cannot Be Fully Met** (Showing a simple text will also work)  
 
 ### 👑 **Admin Portal**  (Simple 1-2 page dashboard)
+✅ **Authentication** (Log in)  
 ✅ **Manage Employee Seniority Levels (Junior, Mid-Level, Senior)**  
 ✅ **Define Minimum and Maximum Employees Per Shift** (A default value by system will also work)
 
