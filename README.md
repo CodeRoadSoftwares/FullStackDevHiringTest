@@ -11,7 +11,7 @@ The system **dynamically adjusts schedules** when employees update their prefere
 
 ## 📌 Features  
 
-### 🏢 **Employee Portal**  
+### 🏢 **Employee Portal**  (Simple 1-2 page dashboard)
 ✅ **User Authentication** (Sign up & Log in)  
 ✅ **Set Availability** (User should be able to set:)  
    - **Preferred shifts** (Morning / Afternoon / Night) for each day of the week  
@@ -22,7 +22,7 @@ The system **dynamically adjusts schedules** when employees update their prefere
 ✅ **Update Availability Anytime** (Triggers recalculation of shift schedules)  
 ✅ **Receive Notification if Preferences Cannot Be Fully Met** (Showing a simple text will also work)  
 
-### 👑 **Admin Portal**  
+### 👑 **Admin Portal**  (Simple 1-2 page dashboard)
 ✅ **Manage Employee Seniority Levels (Junior, Mid-Level, Senior)**  
 ✅ **Define Minimum and Maximum Employees Per Shift** (A default value by system will also work)
 
